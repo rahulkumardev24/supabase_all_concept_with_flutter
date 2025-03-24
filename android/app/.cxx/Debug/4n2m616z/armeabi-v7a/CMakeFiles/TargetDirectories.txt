@@ -1,0 +1,2 @@
+C:/FLUTTER PROJECT/supabse project/supabase_all_concept/android/app/.cxx/Debug/4n2m616z/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/FLUTTER PROJECT/supabse project/supabase_all_concept/android/app/.cxx/Debug/4n2m616z/armeabi-v7a/CMakeFiles/rebuild_cache.dir
