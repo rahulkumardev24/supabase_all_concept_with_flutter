@@ -38,6 +38,9 @@ dependencies:
   supabase_flutter: ^2.8.3
   image_picker: ^1.1.2
   cached_network_image: ^3.4.1
+  file_picker: ^9.2.1
+  open_filex: ^4.7.0
+  path_provider: ^2.1.5
 
 dev_dependencies:
   flutter_test:
